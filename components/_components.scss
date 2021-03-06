@@ -76,7 +76,7 @@
     .header-items {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        d .logo {
+        .logo {
             width: 100%;
             h1 {
                 color: $white;
@@ -146,7 +146,7 @@
                     height: 150px;
                     position: absolute;
                     background-color: $grey2;
-                    top: 70px;
+                    top: 65px;
                     align-items: center;
                     display: none;
                     left: 20px;
@@ -187,7 +187,7 @@
                     align-items: center;
                     background-color: $grey2;
                     position: absolute;
-                    top: 70px;
+                    top: 65px;
                     left: 30px;
                     display: none;
                     z-index: 1;

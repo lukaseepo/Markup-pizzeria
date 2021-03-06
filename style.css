@@ -115,11 +115,11 @@
       grid-template-columns: 1fr 1fr;
 }
 
-.header-section .header-items d .logo {
+.header-section .header-items .logo {
   width: 100%;
 }
 
-.header-section .header-items d .logo h1 {
+.header-section .header-items .logo h1 {
   color: #fff;
   font-size: 2.8em;
   letter-spacing: 0px;
@@ -228,7 +228,7 @@
   height: 150px;
   position: absolute;
   background-color: #262626;
-  top: 70px;
+  top: 65px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -295,7 +295,7 @@
           align-items: center;
   background-color: #262626;
   position: absolute;
-  top: 70px;
+  top: 65px;
   left: 30px;
   display: none;
   z-index: 1;
